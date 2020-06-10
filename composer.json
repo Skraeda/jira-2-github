@@ -1,0 +1,16 @@
+{
+    "name": "kristmundur/jira2github",
+    "description": "Migrate Jira issues to Github.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kristmundur",
+            "email": "kristmundur@sjukraskra.is"
+        }
+    ],
+    "require": {
+        "skraeda/xmlary": "^1.0",
+        "league/html-to-markdown": "^4.9",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
