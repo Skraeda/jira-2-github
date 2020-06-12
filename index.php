@@ -10,6 +10,7 @@
     <div class="container">
         <div class="row justify-content-center mt-5">
             <div class="col-6">
+                <img src="./logo.png" alt="Jira 2 Github" class="img-fluid shadow my-3">
                 <h1>Jira to Github issue migration</h1>
             </div>
         </div>
