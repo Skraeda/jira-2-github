@@ -1,3 +1,5 @@
+![alt text][logo]
+[logo]: ./logo.png "Jira 2 Github"
 # Jira to Github issue migration tool
 This tool accepts xml containing exported issues from Jira and imports them to your Github repository using the Github API.
 
