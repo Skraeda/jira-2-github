@@ -11,7 +11,7 @@ PHP 7.2 or higher.
 ```
 php -S localhost:8000
 ```
-4. Navigate to (http://localhost:8000) to import your issues.
+4. Navigate to http://localhost:8000 to import your issues.
 
 ## Configuration
 Assignees can be mapped between Jira and Github. Leave empty if you do not want to migrate the Assignees.
