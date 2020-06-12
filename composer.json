@@ -11,6 +11,7 @@
     "require": {
         "skraeda/xmlary": "^1.0",
         "league/html-to-markdown": "^4.9",
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "~6.0",
+        "vlucas/phpdotenv": "^5.0"
     }
 }

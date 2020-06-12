@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row justify-content-center mt-5">
             <div class="col-6">
-                <h1>Jira2Github</h1>
+                <h1>Jira to Github issue migration</h1>
             </div>
         </div>
         <div class="row justify-content-center">
